@@ -1,3 +1,5 @@
+/* THIS IS NOT FINISHED AND PROBABLY WILL NOT RUN WITHOUT ERRORS */
+
 // For the latest Axiom VirtualNetwork+ scripting documentation, 
 // please visit: http://www.zachtronics.com/virtualnetwork/
 //VARS
